@@ -1,0 +1,26 @@
+_repo: O-Infante-Navegador--Poemeto_32647
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campos, Alfredo
+    birthdate: 1847
+    gutenberg_agent_id: '24996'
+    url: http://www.gutenberg.org/2009/agents/24996
+description: ''
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32647'
+  lccn: '34021544'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Henry, Infante of Portugal, 1394-1460 -- Poetry'
+title: 'O Infante Navegador: Poemeto'
+url: http://www.gutenberg.org/ebooks/32647
