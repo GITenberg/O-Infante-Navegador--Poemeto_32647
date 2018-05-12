@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '24996'
     url: http://www.gutenberg.org/2009/agents/24996
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32647#O-Infante-Navegador--Poemeto
 gutenberg_issued: '2010-06-01'
 gutenberg_type: Text
 identifiers:
